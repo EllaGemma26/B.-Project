@@ -7,7 +7,7 @@ $(document).ready(function(){
 <=0) {
      orderContainer.html(`<article class="card bg-danger d-flex align-items-center justify-content-center">
      <h1 class="text-white">NO Order Made Yet </h1>
-     <a href="../project.html" class="btn btn-primary">Make Order Now</a>
+     <a href="../index.html" class="btn btn-primary">Make Order Now</a>
      </article>`)
      return;
 }
